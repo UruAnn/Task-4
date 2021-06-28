@@ -1,0 +1,29 @@
+.body{
+    background-color: rgb(189, 184, 184);
+    width: 600px;
+    height: 400px;
+}
+.header {
+    font-size: 50px;
+}
+.label {
+    font-size: 80px;
+}
+.but1 {
+    border-radius: 7px;
+    padding: 4px;
+    width: 100px;
+    font-size: 16px;
+}
+.but2 {
+    border-radius: 7px;
+    padding: 4px;
+    width: 100px;
+    font-size: 16px;
+}
+.but3 {
+    border-radius: 7px;
+    padding: 4px;
+    width: 100px;
+    font-size: 16px;
+}
